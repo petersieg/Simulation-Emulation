@@ -32,8 +32,10 @@ Angaben und deren Folgen weder eine juristische Verantwortung, noch irgendeine H
 Genannte Hard- und Softwarebezeichnungen sind ggf. auch eingetragene Warenzeichen und sollten als solche betrachtet werden. 
 Die Rechte an verwendetem Bildmaterial liegt bei den jeweiligen Rechteinhabern.
 
+Wenn euch das Buch gefaellt und ihr es honorieren moechtet:
+PayPal: peter (dot) sieg2 (at) gmx (dot) de
 
-Name				Size (bytes)      md5sum
+Name				  Size (bytes)      md5sum
 ========================================================
 
 Buch-Simulation-Emulation.odt	 35685258	  351775eb3bd12d9b502b133a92083c8f
