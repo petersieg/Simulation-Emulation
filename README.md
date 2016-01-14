@@ -10,7 +10,7 @@ Impressum
 Author: Peter Sieg
 
 Rabishauerstr. 9
-37603 Holminden
+37603 Holzminden
 Germany
 
 Stand: Dezember 2015
