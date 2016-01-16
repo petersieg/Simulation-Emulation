@@ -32,6 +32,10 @@ Angaben und deren Folgen weder eine juristische Verantwortung, noch irgendeine H
 Genannte Hard- und Softwarebezeichnungen sind ggf. auch eingetragene Warenzeichen und sollten als solche betrachtet werden. 
 Die Rechte an verwendetem Bildmaterial liegt bei den jeweiligen Rechteinhabern.
 
+Sollte jemand gegen Inhalte etwas einzuwenden haben, bzw. Rechte verletzt werden, so bitte ich
+um Nachricht. Ich werde das dann bei berechtigten Einwaenden umgehen sendern. Für alle Erweiterungen/Veraenderungen
+ist der jeweilige Author verantwortlich. 
+
 Wenn euch das Buch gefaellt und ihr es honorieren moechtet:
 PayPal: peter (dot) sieg2 (at) gmx (dot) de
 
