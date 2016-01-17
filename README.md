@@ -33,7 +33,7 @@ Genannte Hard- und Softwarebezeichnungen sind ggf. auch eingetragene Warenzeiche
 Die Rechte an verwendetem Bildmaterial liegt bei den jeweiligen Rechteinhabern.
 
 Sollte jemand gegen Inhalte etwas einzuwenden haben, bzw. Rechte verletzt werden, so bitte ich
-um Nachricht. Ich werde das dann bei berechtigten Einwaenden umgehen sendern. Für alle Erweiterungen/Veraenderungen
+um Nachricht. Ich werde das dann bei berechtigten Einwaenden umgehend aendern. Für alle Erweiterungen/Veraenderungen
 ist der jeweilige Author verantwortlich. 
 
 Wenn euch das Buch gefaellt und ihr es honorieren moechtet:
